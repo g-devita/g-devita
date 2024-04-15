@@ -1,6 +1,6 @@
 ### Olá pessoal 👋 sou o Devita!
 
-Atualmente trabalho como Técnico em Eletrônica e sou graduando em Engenharia de Computação.
+Sou graduando em Engenharia Elétrica pela UFSCar e esse é meu repositório!
 
 As tecnologias que mais trabalho são:  
 
